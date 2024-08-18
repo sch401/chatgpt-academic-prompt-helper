@@ -7,6 +7,7 @@
 // @homepage      https://github.com/ZinYY/chatgpt-academic-prompt-helper
 // @author        ZinYY
 // @match         *://chat.openai.com/*
+// @match         *://chatgpt.com/*
 // @match         *://claude.ai/*
 // @grant         none
 // @license MIT
